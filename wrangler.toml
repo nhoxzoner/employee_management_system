@@ -1,0 +1,7 @@
+name = "employee-management-system"
+compatibility_date = "2025-03-21"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "employee-management-db"
+database_id = "84486849-db7d-4033-973e-03355d9ea7cf"
